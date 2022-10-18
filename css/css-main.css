@@ -1920,3 +1920,6 @@ input[type=text] {
     grid-column-gap: 12px;
     grid-row-gap: 12px;
 }
+.sidebar-news{
+    margin-top: 23px;
+}
